@@ -1,0 +1,5 @@
+<map id="TextureComponent" name="TextureComponent">
+<area shape="rect" id="Node000001" title="Manages a texture for a game entity, handling its loading, updating, and rendering." alt="" coords="5,272,184,469"/>
+<area shape="rect" id="Node000002" href="$struct_component.html" title="Abstract base class for components in a game entity&#45;component system." alt="" coords="34,5,155,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,239,97,272,92,272,92,239"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,48,137,91"/>
+<area shape="rect" id="Node000001" href="$struct_game_entity.html" title="Base class for all game entities, supporting components and common game object functions." alt="" coords="185,56,275,83"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="152,67,184,67,184,72,152,72"/>
+<area shape="rect" id="Node000002" href="$struct_enemy_game_entity.html" title="Represents an enemy in the game, handling its behavior, rendering, and state." alt="" coords="323,5,454,32"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="288,48,344,30,345,35,289,53"/>
+<area shape="rect" id="Node000003" href="$struct_player_game_entity.html" title="Represents the player entity in the game, handling player&#45;specific behavior." alt="" coords="325,56,452,83"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="291,67,325,67,325,72,291,72"/>
+<area shape="rect" id="Node000004" href="$struct_projectile.html" title="Represents a projectile in the game, handling its movement, rendering, and interactions." alt="" coords="351,107,426,133"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="289,85,352,106,350,111,287,90"/>
+</map>

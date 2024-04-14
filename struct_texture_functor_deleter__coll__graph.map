@@ -1,0 +1,3 @@
+<map id="TextureFunctorDeleter" name="TextureFunctorDeleter">
+<area shape="rect" id="Node000001" title="Functor for properly deallocating SDL textures." alt="" coords="5,5,147,75"/>
+</map>

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['save_5fconfig_0',['save_config',['../class_game_config_editor_1_1_game_config_editor.html#a77bd3729d74e22f6a3eecca05f446457',1,'GameConfigEditor::GameConfigEditor']]],
+  ['save_5fmap_1',['save_map',['../class_tile_map_editor_1_1_tile_map_editor.html#a375fb35ab924c44c98027066d14c426f',1,'TileMapEditor::TileMapEditor']]],
+  ['scene_2',['Scene',['../struct_scene.html#ad10176d75a9cc0da56626f682d083507',1,'Scene']]],
+  ['select_5ftile_3',['select_tile',['../class_tile_map_editor_1_1_tile_map_editor.html#ae26548de9ed1703198661634bc57a042',1,'TileMapEditor::TileMapEditor']]],
+  ['setgameentity_4',['SetGameEntity',['../struct_component.html#a92fc19214ae6a73ee22824d85d1a1b99',1,'Component']]],
+  ['seth_5',['SetH',['../struct_collision2_d_component.html#afcde179c03ed630fec68c15de1f0ded6',1,'Collision2DComponent::SetH()'],['../struct_transform_component.html#a18d77f1e7dd0eae8f011f538560a91f0',1,'TransformComponent::SetH()']]],
+  ['setisfring_6',['SetIsFring',['../struct_projectile.html#af9248fbbeddec3e7de1e6d444935e968',1,'Projectile']]],
+  ['setowner_7',['SetOwner',['../struct_projectile.html#a9e982ace9bae2d90d0b28f51479100a4',1,'Projectile']]],
+  ['setplayerrenderable_8',['SetPlayerRenderable',['../struct_game_engine.html#a0ac66a19b9d1cf410e35ed37e634efac',1,'GameEngine']]],
+  ['setpoints_9',['SetPoints',['../struct_game_engine.html#aae7070019f36f49f6756ed18969037fd',1,'GameEngine']]],
+  ['setrenderable_10',['SetRenderable',['../struct_game_entity.html#af70aeee767494295ab65288e7b2e85fa',1,'GameEntity']]],
+  ['setsceneactivestatus_11',['SetSceneActiveStatus',['../struct_scene.html#afee9735168aa0a95751dbec42fa15d59',1,'Scene']]],
+  ['setscenebackground_12',['SetSceneBackground',['../struct_game_engine.html#a33666b2766e38b00fbc12121dbc59520',1,'GameEngine']]],
+  ['setup_5fui_13',['setup_ui',['../class_game_config_editor_1_1_game_config_editor.html#aba708f2abd40d0d77b0848d92f0f889b',1,'GameConfigEditor.GameConfigEditor.setup_ui()'],['../class_tile_map_editor_1_1_tile_map_editor.html#af5a48fd58da5076fc31501f3c08d4728',1,'TileMapEditor.TileMapEditor.setup_ui()']]],
+  ['setw_14',['SetW',['../struct_collision2_d_component.html#ade40d4db628d99780af2ada4d2ca840d',1,'Collision2DComponent::SetW()'],['../struct_transform_component.html#ad0ec4d225535f56ab1a0aa942d7f006b',1,'TransformComponent::SetW()']]],
+  ['setwh_15',['SetWH',['../struct_collision2_d_component.html#abd832fdc022f80dfee1e20070f42f941',1,'Collision2DComponent::SetWH()'],['../struct_transform_component.html#a198f76af633557e85027771f60867432',1,'TransformComponent::SetWH()']]],
+  ['setx_16',['SetX',['../struct_collision2_d_component.html#adfd8f5fd9c0bba9265042981ea400c14',1,'Collision2DComponent::SetX()'],['../struct_transform_component.html#a8052d38b75f03094e781481212878589',1,'TransformComponent::SetX()']]],
+  ['setxy_17',['SetXY',['../struct_collision2_d_component.html#a24ce405b955155836317f1c027631b86',1,'Collision2DComponent::SetXY()'],['../struct_transform_component.html#a1977fcd1d8cd835aea71651f18cc9ea4',1,'TransformComponent::SetXY()']]],
+  ['sety_18',['SetY',['../struct_collision2_d_component.html#a3a08e1d987d66f141a3cddaa991606bf',1,'Collision2DComponent::SetY()'],['../struct_transform_component.html#ab7df147cf1e48361aec3f96573278a09',1,'TransformComponent::SetY()']]],
+  ['shutdown_19',['Shutdown',['../struct_game_engine.html#af69e9dcbbb9d92c4ae6d063e106b3819',1,'GameEngine::Shutdown()'],['../struct_scene.html#aea860520f1ae70e9af3e0fffa7357837',1,'Scene::Shutdown()']]],
+  ['spawn_5fenemy_20',['spawn_enemy',['../class_game_1_1_shooter_game.html#a63f4a2bd37c79279535a8c1bc1563be1',1,'Game::ShooterGame']]],
+  ['start_21',['start',['../class_game_1_1_shooter_game.html#a9b7e3fd277af53e02bebbd7225a6ccbc',1,'Game::ShooterGame']]],
+  ['startup_22',['StartUp',['../struct_enemy_game_entity.html#aafde3011f395379cf8b3dbbc4ce8fbe0',1,'EnemyGameEntity::StartUp()'],['../struct_game_engine.html#afd77c5008b37362eb35d9dad2a577979',1,'GameEngine::StartUp()'],['../struct_scene.html#ae98753ff24e7dfb41b45aa1d212c5e82',1,'Scene::StartUp()']]]
+];

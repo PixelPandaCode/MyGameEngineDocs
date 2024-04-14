@@ -1,0 +1,11 @@
+<map id="Component" name="Component">
+<area shape="rect" id="Node000001" title="Abstract base class for components in a game entity&#45;component system." alt="" coords="295,5,417,224"/>
+<area shape="rect" id="Node000002" href="$struct_collision2_d_component.html" title="Component for handling 2D collisions in a game environment." alt="" coords="5,272,176,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,178,237,224,190,274,178,288,174,285,186,270,234,220,282,174"/>
+<area shape="rect" id="Node000003" href="$struct_input_component.html" title="Component for handling input for a game entity." alt="" coords="200,272,333,555"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,239,311,273,306,272,317,238"/>
+<area shape="rect" id="Node000004" href="$struct_texture_component.html" title="Manages a texture for a game entity, handling its loading, updating, and rendering." alt="" coords="357,315,536,512"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,237,419,314,414,315,391,239"/>
+<area shape="rect" id="Node000005" href="$struct_transform_component.html" title="Manages the position, size, and bounding rectangle of a game entity." alt="" coords="560,272,723,555"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="430,165,491,213,550,270,562,284,558,288,546,274,487,217,427,169"/>
+</map>
